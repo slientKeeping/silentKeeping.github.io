@@ -235,4 +235,4 @@ style="text-decoration-line: none !important;" href="#%e8%bf%9c%e7%a8%8b%e6%97%a
 重启机器，系统直接进入grub交互界面，如下图所示
 分别输入kernel参数和伪根文件系统路径，并启动
 指定kernel和initrd的文件路径根为/boot所在的设备及分区;(hd0,0)代表着第一个硬盘中第一个分区
-重启之后，可以正常登陆了 # 登陆之后再去完善/etc/fstab文件及grub.conf文件，机器就恢复成功了。</description></item></channel></rss>
+重启之后，可以正常登陆了 # 登陆之后再去完善/etc/fstab文件及grub.conf文件，机器就恢复成功了。</description></item><item><title/><link>https://fufeixiang.com/1/01/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://fufeixiang.com/1/01/</guid><description/></item></channel></rss>
